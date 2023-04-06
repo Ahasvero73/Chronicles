@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>ImagE50</title>
+ImagE50
 </head>
 <body>
 <h1><a href = "https://www.image50.eu/">ImagE50</a></h1>
