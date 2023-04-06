@@ -1,7 +1,4 @@
 <html>
-<head>
-ImagE50
-</head>
 <body>
 <h1><a href = "https://www.image50.eu/">ImagE50</a></h1>
 <h2>Immaginare il futuro: percorso in otto tappe verso l'Europa del 2050</h2>
